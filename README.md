@@ -19,7 +19,9 @@ A short text-based interrogation game built in Godot 4.7 (mobile renderer). You 
 
 ## Running it
 
-Open the project folder in Godot 4.7 and run the main scene (`Interrogation.tscn`), or `godot --path . run/main_scene` from the CLI.
+Open the project folder in Godot 4.7 and go to Interrogation.gd and fill in your Typesafe API keys dn then click run! that simple.
+
+Also you need to have Ollama installed and be running a local model, just update the name of the local model you are using in the code so it works. The model I used is "qwen2.5:3b"
 
 ## Known issue
 The game play can be a bit of an issue due to the fact that local models can not reason very well and can lack "creative intent" so the game can loop a bit and feels a bit dumb.
