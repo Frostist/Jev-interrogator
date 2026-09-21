@@ -22,5 +22,5 @@ A short text-based interrogation game built in Godot 4.7 (mobile renderer). You 
 Open the project folder in Godot 4.7 and run the main scene (`Interrogation.tscn`), or `godot --path . run/main_scene` from the CLI.
 
 ## Known issue
-
-The TypeSafe API key is hardcoded in `Interrogation.gd:4` for local prototyping. It must move to an environment variable or a server-side proxy before this is committed to a shared repo or shipped anywhere.
+The game play can be a bit of an issue due to the fact that local models can not reason very well and can lack "creative intent" so the game can loop a bit and feels a bit dumb.
+But it is a prototype after all and it's fun to see all the different use cases for Jev AI
