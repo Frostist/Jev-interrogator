@@ -2,6 +2,10 @@
 
 A short text-based interrogation game built in Godot 4.7 (mobile renderer). You play a prisoner answering a Commandant's questions; an LLM judges each answer and drives a suspicion meter toward "shot" or "one shot at escape."
 
+<img width="1151" height="645" alt="image" src="https://github.com/user-attachments/assets/0f555941-6da2-4dc3-b6ad-b240b43b87a1" />
+
+<img width="1149" height="645" alt="image" src="https://github.com/user-attachments/assets/ee646a86-2d8f-4d3b-8fd9-0845148f91bc" />
+
 ## How it works
 
 - `Interrogation.tscn` / `Interrogation.gd` is the entire game — one scene, one script.
