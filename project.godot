@@ -10,10 +10,10 @@ config_version=5
 
 [application]
 
-config/name="Statie"
+config/name="Jev-Interrogator"
 run/main_scene="res://Interrogation.tscn"
 config/features=PackedStringArray("4.7", "Mobile")
-config/icon="res://icon.svg"
+config/icon="uid://bej0143ta00dr"
 
 [display]
 
