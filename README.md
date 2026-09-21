@@ -1,4 +1,4 @@
-# Statie
+# Jev-Interrogator
 
 A short text-based interrogation game built in Godot 4.7 (mobile renderer). You play a prisoner answering a Commandant's questions; an LLM judges each answer and drives a suspicion meter toward "shot" or "one shot at escape."
 
