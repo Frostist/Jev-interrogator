@@ -1,6 +1,7 @@
 extends Control
 
 const API_URL := "https://api.typesafe.ai/v1/systemone"
+# Fill in your API key here to connect to Typesafe AI Console
 const TYPESAFE_API_KEY := ""
 
 const OLLAMA_URL := "http://127.0.0.1:11434/api/chat"
